@@ -1,0 +1,49 @@
+body{
+    background-color: #9c254d;
+    color:white;
+}
+
+table, th, td{
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+div{
+    padding: 10%;
+}
+
+h1{
+    font-size: 100px;
+    margin-block: 0;
+}
+
+h2{
+    font-size: 40px;
+    margin-block: 10px;
+}
+
+p{
+    font-size: 30px;
+}
+
+th{
+    text-align: start;
+}
+
+.project{
+    padding-bottom: 30px;
+}
+
+nav, a{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    padding-right: 10px;
+}
+
+.email{
+    color: #cbcb41;
+    font-weight: 500;
+    text-decoration-line: underline;
+}
